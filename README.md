@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm Raschid Llamas, Fullstack developer and Blockchain Enthusiast from <b>Guadalajara, México</b>
+<p>Welcome to my page! I'm Raschid Llamas, fullstack developer, system and graphical engineer and Blockchain Enthusiast from <b>Guadalajara, México</b>
 
  This is the place where I upload most of my university stuff, my own proyects and where I break things :rofl:
 
