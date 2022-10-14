@@ -36,8 +36,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<p align="center">
 ![Rshdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rshdd&show_icons=true&theme=tokyonight)
-
+<p>
+  
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=rshdd&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
