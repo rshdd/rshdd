@@ -9,7 +9,7 @@
 - 💬 &nbsp;Ask me about anything related to Python, Fullstack Web Development, Gaming, Blockchain Dapp´s and NFTs
 - 📫 &nbsp;How to reach me: <a rel="me" href="raschidllamas@hotmail.com">raschidllamas@hotmail.com</a>
 - 👨‍💻 &nbsp;Currently on my journey to be a System and Graphical Engineer, have a great passion for big projects that require problem solving
-- ⚡ &nbsp;Fun fact: I :heart: my dog Yak :dog:
+- ⚡ &nbsp;Fun fact: I :heart: my dog Yak :dog: and :heart: lifting heavy weights 🏋️
 
 <p align="center">🔗Connect with me
 <br/>
