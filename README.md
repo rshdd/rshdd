@@ -19,7 +19,14 @@
 </a>
 </p>
 
-<h3>Things I code with</h3>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=rshdd"
+    alt="gargakshit"
+  />
+</p>
+
+<h2>Things I code with</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -37,16 +44,11 @@
 </p>
 
 ![Rshdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rshdd&show_icons=true&theme=tokyonight)
-  
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=rshdd"
-    alt="gargakshit"
-  />
-</p>
-
+ 
+<p align="center"> 
 *ETH: **0x527BaB002468B619406A9e23d3243390620a3747***
-
+</p>
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
