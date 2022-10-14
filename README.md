@@ -48,3 +48,9 @@
     alt="gargakshit"
   />
 </p>
+
+*ETH: **0x527BaB002468B619406A9e23d3243390620a3747***
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
