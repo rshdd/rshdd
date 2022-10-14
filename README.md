@@ -45,10 +45,6 @@
 
 ![Rshdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rshdd&show_icons=true&theme=tokyonight)
  
-<p align="center"> 
-*ETH: **0x527BaB002468B619406A9e23d3243390620a3747***
-</p>
-  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
 </p>
