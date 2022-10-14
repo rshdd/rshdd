@@ -2,14 +2,14 @@
 
 <p>Welcome to my page! I'm Raschid Llamas, Fullstack developer and Blockchain Enthusiast from <b>Guadalajara, México</b>
 
- This is the place where I opensource stuff and break things :rofl:
+ This is the place where I upload most of my university stuff, my own proyects and where I break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 📫 &nbsp;How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 🔭 &nbsp;I’m currently working on learning about the blockchain and Decentralized Apps :wink:
+- 🌱 &nbsp;I’m currently learning Java and Fullstack Web Development
+- 💬 &nbsp;Ask me about anything related to Python, Fullstack Web Development, Gaming, Blockchain Dapp´s and NFTs
+- 📫 &nbsp;How to reach me: [@nft_rshdd](https://twitter.com/nft_rshdd) or <a rel="me" href="raschidllamas@hotmail.com">raschidllamas@hotmail.com</a>
+- 👨‍💻 &nbsp;Currently on my journey to be a System and Graphical Engineer, have a great passion for big projects that require problem solving
+- ⚡ &nbsp;Fun fact: I :heart: my dog Yak :dog:
 
 <p align="center">🔗Connect with me
 <br/>
