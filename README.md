@@ -38,6 +38,10 @@
 
 ![Rshdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rshdd&show_icons=true&theme=tokyonight)
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=rshdd&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=rshdd"
