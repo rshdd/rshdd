@@ -12,7 +12,7 @@
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
 
 <p align="center">
- 🔗 &nbsp;**Connect with me**  
+🔗 &nbsp; **Connect with me**  
 <br/>
 <a href="https://twitter.com/nft_rshdd">
   <img alt="rshdd´s | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
