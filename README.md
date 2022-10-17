@@ -49,6 +49,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  ![Java](https://img.shields.io/badge/Java-323330?style=flat-square&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHsSURBVDiNjZFPSJRRFMXPuW++MUodW7hoUWjSygiDpj9gZARuC6JaaQZtJRCLNhHRrjTJliKN/dtGFIFQ0SZyk1K0KCoitE2KORkyM9/33dM6nSkvvNV577zfOReS8L/zaV/uYi3NsJ6hd9eS/m1A8vP+3AjAcs0rkqoKHzubG0JauQ9gh7mOyuxQ21RxHJKviyCk5dsAdkF+yY0PKL1c/bgmwYcDm1sy8K/mzLtpMigcbp1afFfto6oEkSUrACrKWAlAU2LpzlqkVQ3aXi3/IHBNabqb0hidJ2oZrIkwMFFpJ0Pr71KYHBzPdVtQBFlz2+ulsYGJSruZHZf0eLg3mlljMHgnPgfwOqCHAN+K4IZScXu5rrGe4FzimauB8UkYzw71ZPauiTDUG92UocsY3ogq0jUfR7kCHEPlkLky0oclmnVQnK4Z4UIh7nDjLUHbIC6Q+Enqu8uekogFb7zRE00IEABkVpeyqSV6v/wtWQD4COQs6fVybok9vBg9g3kgYLhaiecLSZeITpOeJIZsEI84kSc4J/o0kuh5nEWxLkkPln+FZ6P9KP9FIMMxAL1OO23UnKBZA78I2GjgKbekP5tiUYapqCluBqJC9TXejffQQx7mWw1qcqGBworAFZJZwGcaPLp3uQ8lAPgDcmsQWulW/R8AAAAASUVORK5CYII=)
 </p>
 
 ![Rshdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rshdd&show_icons=true&theme=tokyonight)
