@@ -36,20 +36,18 @@
 
 <h2>Things I code with</h2>
 
-<
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-323330?style=flat-square&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHsSURBVDiNjZFPSJRRFMXPuW++MUodW7hoUWjSygiDpj9gZARuC6JaaQZtJRCLNhHRrjTJliKN/dtGFIFQ0SZyk1K0KCoitE2KORkyM9/33dM6nSkvvNV577zfOReS8L/zaV/uYi3NsJ6hd9eS/m1A8vP+3AjAcs0rkqoKHzubG0JauQ9gh7mOyuxQ21RxHJKviyCk5dsAdkF+yY0PKL1c/bgmwYcDm1sy8K/mzLtpMigcbp1afFfto6oEkSUrACrKWAlAU2LpzlqkVQ3aXi3/IHBNabqb0hidJ2oZrIkwMFFpJ0Pr71KYHBzPdVtQBFlz2+ulsYGJSruZHZf0eLg3mlljMHgnPgfwOqCHAN+K4IZScXu5rrGe4FzimauB8UkYzw71ZPauiTDUG92UocsY3ogq0jUfR7kCHEPlkLky0oclmnVQnK4Z4UIh7nDjLUHbIC6Q+Enqu8uekogFb7zRE00IEABkVpeyqSV6v/wtWQD4COQs6fVybok9vBg9g3kgYLhaiecLSZeITpOeJIZsEI84kSc4J/o0kuh5nEWxLkkPln+FZ6P9KP9FIMMxAL1OO23UnKBZA78I2GjgKbekP5tiUYapqCluBqJC9TXejffQQx7mWw1qcqGBworAFZJZwGcaPLp3uQ8lAPgDcmsQWulW/R8AAAAASUVORK5CYII=)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
