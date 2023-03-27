@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! I'm Raschid Llamas, fullstack web developer, computer science and computer graphics engineer and Blockchain Enthusiast from <b>Guadalajara, México</b>
+<p>Welcome to my page! I'm Raschid Llamas, fullstack web developer, computer science & computer graphics engineer and Blockchain Enthusiast from <b>Guadalajara, México</b>
 
  This is the place where I upload most of my university stuff, my own proyects and where I break things :rofl:
 
@@ -8,7 +8,7 @@
 - 🌱 &nbsp;I’m currently learning advanced and complex data structures and algorithms
 - 💬 &nbsp;Ask me about anything related to Blockchain Dapp's, NFT's, Python, Fullstack Web Development and Gaming
 - 📫 &nbsp;How to reach me: <a rel="me" href="raschidllamas@hotmail.com">raschidllamas@hotmail.com</a>
-- 👨‍💻 &nbsp;Currently on my journey to be a Computer Science and Computer Graphical Engineer, have a great passion for big projects that require problem solving
+- 👨‍💻 &nbsp;Currently on my journey to become a Computer Science and Computer Graphical Engineer. I have a great passion for big projects that require problem solving
 - ⚡ &nbsp;Fun fact: I :heart: my dogs Yak and Pepper :dog: and also :heart: lifting heavy weights 🏋️
 
 <p align="center">🔗Connect with me
