@@ -58,8 +58,6 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?&style=flat-square&logo=atom&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
-
-![Rshdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rshdd&show_icons=true&theme=tokyonight)
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=95&section=footer"/>
