@@ -4,11 +4,11 @@
 
  This is the place where I upload most of my university stuff, my own proyects and stuff I sometimes break :rofl:
 
-- 🔭 &nbsp;I’m currently working on my own resume website :wink:
-- 🌱 &nbsp;I’m currently learning advanced and complex data structures and algorithms
-- 💬 &nbsp;Ask me about anything related to Blockchain Dapp's, NFT's, Python, Fullstack Web Development and Gaming
+- 🔭 &nbsp;I’m currently working on my own resume website. :wink:
+- 🌱 &nbsp;I’m currently learning structures and algorithms.
+- 💬 &nbsp;Ask me about anything related to Blockchain Dapp's, NFT's, Python, Fullstack Web Development and Gaming.
 - 📫 &nbsp;How to reach me: <a rel="me" href="raschidllamas@hotmail.com">raschidllamas@hotmail.com</a>
-- 👨‍💻 &nbsp;Currently on my journey to become a Computer Science and Computer Graphical Engineer. I have a great passion for big projects that require problem solving and teamwork
+- 👨‍💻 &nbsp;Currently on my journey to become a Computer Science and Graphical Engineer. I have a great passion for big projects that require problem solving and teamwork.
 - ⚡ &nbsp;Fun fact: I :heart: my dogs Yak and Pepper :dog: and also :heart: lifting heavy weights 🏋️
 
 <p align="center">🔗Connect with me
