@@ -52,7 +52,6 @@
 💼 **Technical Support Engineer** @ *Cerby*  
 🎓 **Computer Science & Computer Graphics Engineer** @ *Universidad Panamericana*  
 📊 **Specialization in Data Science** *(In progress)*  
-💡 Passionate about **automation**, **UX/UI in tools**, and **building efficient, scalable systems**  
 🚀 Aspiring to grow as a **Software Engineer** focused on impact and innovation
 
 ---
