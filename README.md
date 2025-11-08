@@ -60,6 +60,6 @@
 
 [![Email](https://img.shields.io/badge/Email-raschidllamas%40hotmail.com-1F1F1F?style=flat&logo=gmail&logoColor=00FFCC)](mailto:raschidllamas@hotmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B52%2033%201796%204357-1F1F1F?style=flat&logo=whatsapp&logoColor=00FFCC)](tel:+523317964357)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raschid--llamas-1F1F1F?style=flat&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/raschid-llamas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raschid--Llamas-1F1F1F?style=flat&logo=linkedin&logoColor=00FFCC)](https://www.linkedin.com/in/raschid-llamas/)
 [![GitHub](https://img.shields.io/badge/GitHub-rshdd-1F1F1F?style=flat&logo=github&logoColor=00FFCC)](https://github.com/rshdd)
 
