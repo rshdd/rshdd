@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 What I’m focused on
-- Building cool automations with **TypeScript**, **Python**, and all kinds of **API connections**
+- Building with **TypeScript**, **Python**, and a stack of tools that make things work
 - Specializing on **Data Science**, and **Machine Learning**
 - Sharpening my **entrepreneur mindset**, turning random ideas into things people actually want to use
 
