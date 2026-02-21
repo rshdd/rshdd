@@ -49,7 +49,7 @@
 
 ### 👨‍💻 About Me
 
-💼 **Technical Support Engineer** @ *Cerby*  
+💼 **SWE** @ *?*  
 🎓 **Computer Science & Computer Graphics Engineer** @ *Universidad Panamericana*  
 📊 **Specialization in Data Science** *(In progress)*  
 🚀 Aspiring to grow as a **Software Engineer** focused on impact and innovation
